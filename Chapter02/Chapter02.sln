@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSqlClient", "WorkingWithSqlClient\WorkingWithSqlClient.csproj", "{05553102-9E3F-49BC-B237-5F61D982BBB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Debug|x64.ActiveCfg = Debug|x64
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Debug|x64.Build.0 = Debug|x64
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|x64.ActiveCfg = Release|x64
+		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD802B1E-6AF4-4DF3-AF70-51B332C30CE1}
+	EndGlobalSection
+EndGlobal
