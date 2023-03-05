@@ -2571,11 +2571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Apps and Services with .NET 7\\apps-services-net7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
+      "projectUniqueName": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
       "projectName": "WorkingWithSqlClient",
-      "projectPath": "C:\\Code\\Apps and Services with .NET 7\\apps-services-net7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
+      "projectPath": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
       "packagesPath": "C:\\Users\\Gamek\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Apps and Services with .NET 7\\apps-services-net7\\Chapter02\\WorkingWithSqlClient\\obj\\",
+      "outputPath": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithSqlClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

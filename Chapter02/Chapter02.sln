@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithSqlClient", "WorkingWithSqlClient\WorkingWithSqlClient.csproj", "{05553102-9E3F-49BC-B237-5F61D982BBB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEFCore", "WorkingWithEFCore\WorkingWithEFCore.csproj", "{3E7B8209-C8A4-4868-96B7-84A817111F77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|x64.ActiveCfg = Release|x64
 		{05553102-9E3F-49BC-B237-5F61D982BBB5}.Release|x64.Build.0 = Release|x64
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Debug|x64.Build.0 = Debug|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Release|x64.ActiveCfg = Release|Any CPU
+		{3E7B8209-C8A4-4868-96B7-84A817111F77}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

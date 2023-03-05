@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUdkWM/TAHTo+qy3CZnFR4YmgJTzmskKvWCpsccn4WM47SNAbjEcNVUhnzQVscd/oicHode/ZWJNZYLjs97B1Q==",
+  "dgSpecHash": "HQxR/UgDgpG3Ru8c1CuBg3xlRAQquyJU5QwiRXnh8hGIAodSXGhOk/0XeTIeIgc2PFu48aBLST9n+97XixOVAg==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Apps and Services with .NET 7\\apps-services-net7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
+  "projectFilePath": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gamek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Gamek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

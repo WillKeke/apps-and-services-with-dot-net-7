@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WorkingWithSqlClient
-build_property.ProjectDir = C:\Code\Apps and Services with .NET 7\apps-services-net7\Chapter02\WorkingWithSqlClient\
+build_property.ProjectDir = C:\Code\Apps and Services with .NET 7\Chapter02\WorkingWithSqlClient\
