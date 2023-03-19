@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HQxR/UgDgpG3Ru8c1CuBg3xlRAQquyJU5QwiRXnh8hGIAodSXGhOk/0XeTIeIgc2PFu48aBLST9n+97XixOVAg==",
+  "dgSpecHash": "XLlqGO6ChJ1SGmj3uUUdpqfD/DeunUzfbBh4XUhKm4Gxkwmh5MQCwZPxJ9gZiZhp1XaGBHksnXscNFjis3Y0WA==",
   "success": true,
   "projectFilePath": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithSqlClient\\WorkingWithSqlClient.csproj",
   "expectedPackageFiles": [

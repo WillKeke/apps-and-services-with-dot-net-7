@@ -57,6 +57,7 @@ if (!decimal.TryParse(priceText, out decimal price))
 
 SqlCommand cmd = connection.CreateCommand();
 /*
+ * THIS COMMENTED CODE GETS REPLACES BY THE STORED PROCEDURE.
 cmd.CommandType = CommandType.Text;
 cmd.CommandText = "SELECT ProductId, ProductName, UnitPrice FROM Products" + " WHERE UnitPrice > @price";
 

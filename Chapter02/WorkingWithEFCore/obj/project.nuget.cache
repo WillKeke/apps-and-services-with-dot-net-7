@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O769y/mMqrwFO/C9pAde9HrItGMxBk4B2OIuRd/a6opLIQowkYLFt7VknDnoCcRfllcojS4cUYN5Yy63M+fAJg==",
+  "dgSpecHash": "3UP9rfYySKDuEtEj3wbtrQwOr/ynM36qHhud/8T+0PRg7OAaNpA7KsRYZM8PDvsOqQf6yE+5iZ4Pkk+0bxBqXw==",
   "success": true,
   "projectFilePath": "C:\\Code\\Apps and Services with .NET 7\\Chapter02\\WorkingWithEFCore\\WorkingWithEFCore.csproj",
   "expectedPackageFiles": [
